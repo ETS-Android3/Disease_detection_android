@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MalariaDetection</string>
+    <string name="click_below_to_select_a_image">Click below to select a Image</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="thirdfragment">ThirdFragment</string>
+    <string name="logout">Logout</string>
+    <string name="classify">Classify</string>
+    <string name="todo">TODO</string>
+    <string name="test">test</string>
+    <string name="malaria_detection">Malaria Detection</string>
+</resources>

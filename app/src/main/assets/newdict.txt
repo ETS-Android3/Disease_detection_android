@@ -1,0 +1,2 @@
+1 Parasitized
+0 Uninfected
